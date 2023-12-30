@@ -1,4 +1,4 @@
 ファイル追加の実験
 更に変更
 
-Pull Requestは1コミットにまとめるのか？
+Pull Requestは1 commitにまとめるのか？

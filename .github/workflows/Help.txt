@@ -2,4 +2,4 @@
 2023/12/30
 対応者はTHです。
 
-Pull Requestレビュー方法の確認。
+Pull Request Review方法の確認。
